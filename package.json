@@ -1,0 +1,22 @@
+{
+  "name": "test-ci",
+  "version": "1.0.0",
+  "description": "Testing different CIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbkmadness/testCI.git"
+  },
+  "author": "Slavi Kalov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbkmadness/testCI/issues"
+  },
+  "homepage": "https://github.com/hbkmadness/testCI#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
